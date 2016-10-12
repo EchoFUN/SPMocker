@@ -1,0 +1,18 @@
+{
+  "name": "SPMocker",
+  "version": "1.0.0",
+  "description": "Yet another mocker, But has some different part as usual.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "url": "git@github.com:EchoFUN/SPMocker.git",
+    "type": "git"
+  },
+  "author": "xukai <xukai@meituan.com>",
+  "license": "MIT",
+  "dependencies": {
+    "hostile": "^1.0.3"
+  }
+}
